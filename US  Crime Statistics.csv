@@ -1,0 +1,20 @@
+US State,City,property_crime,murder,city,motor_vehicle_theft,robbery,arson,population,rape,violent_crime,aggravated_assault,burglary,state,larceny_theft
+arizona,chandler,2511.0,2.0,chandler,154.0,55.0,9.0,255986.0,63.0,295.0,175.0,281.0,arizona,2076.0
+arizona,gilbert,1416.0,0.0,gilbert,64.0,21.0,6.0,247463.0,27.0,116.0,68.0,185.0,arizona,1167.0
+arizona,glendale,4067.0,8.0,glendale,376.0,122.0,,249799.0,29.0,384.0,225.0,733.0,arizona,2958.0
+arizona,mesa,4813.0,4.0,mesa,399.0,177.0,11.0,504873.0,133.0,969.0,655.0,722.0,arizona,3692.0
+arizona,peoria,1696.0,1.0,peoria,116.0,52.0,5.0,170177.0,49.0,219.0,117.0,229.0,arizona,1351.0
+arizona,phoenix,28196.0,70.0,phoenix,3418.0,1564.0,104.0,1653080.0,550.0,5659.0,3475.0,4901.0,arizona,19877.0
+arizona,scottsdale,2797.0,3.0,scottsdale,131.0,52.0,11.0,254961.0,59.0,200.0,86.0,365.0,arizona,2301.0
+arizona,surprise,1052.0,2.0,surprise,72.0,32.0,7.0,136611.0,15.0,83.0,34.0,108.0,arizona,872.0
+arizona,tempe,3690.0,3.0,tempe,296.0,103.0,8.0,188543.0,66.0,430.0,258.0,442.0,arizona,2952.0
+florida,jacksonville,14132.0,62.0,jacksonville,1240.0,605.0,33.0,903213.0,250.0,3070.0,2153.0,2186.0,florida,10706.0
+nevada,henderson,2862.0,6.0,henderson,294.0,79.0,8.0,309586.0,36.0,238.0,117.0,447.0,nevada,2121.0
+nevada,north las vegas,2319.0,9.0,north las vegas,471.0,214.0,9.0,246951.0,72.0,1312.0,1017.0,641.0,nevada,1207.0
+new york,new york,57521.0,142.0,new york,2185.0,5838.0,,8523171.0,1391.0,22216.0,14845.0,4425.0,new york,50911.0
+north carolina,durham,5044.0,22.0,durham,337.0,299.0,16.0,273759.0,64.0,965.0,580.0,960.0,north carolina,3747.0
+ohio,akron,2949.0,14.0,akron,257.0,159.0,34.0,197690.0,72.0,895.0,650.0,736.0,ohio,1956.0
+ohio,columbus,14128.0,49.0,columbus,1925.0,823.0,,892576.0,372.0,2122.0,878.0,2676.0,ohio,9527.0
+oklahoma,oklahoma city,12562.0,31.0,oklahoma city,1763.0,437.0,34.0,652936.0,212.0,2290.0,1610.0,2768.0,oklahoma,8031.0
+pennsylvania,philadelphia,22884.0,163.0,philadelphia,2606.0,2576.0,226.0,1586916.0,494.0,7224.0,3991.0,2789.0,pennsylvania,17489.0
+wisconsin,madison,2834.0,0.0,madison,272.0,97.0,5.0,258455.0,49.0,434.0,288.0,428.0,wisconsin,2134.0
